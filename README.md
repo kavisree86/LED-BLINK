@@ -1,4 +1,4 @@
-# LED-BLINK
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/2fff495a-7e97-4594-ae16-9569fee6ed2f" /># LED-BLINK
 # 💡 Experiment 01 – Interfacing a Digital Output (LED) with ARM Development Board
 
 ### 🎯 **Aim**
@@ -110,7 +110,13 @@ int main(void)
 ### OUTPUT
 CASE 1: LED ON 
 
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/b09c9202-4fe8-4ce5-840b-25e68bc2ea7a" />
+
+
+
+
 CASE 2: LED OFF
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/98a0eabc-cbab-4c1b-bff5-fb9bf8f7d189" />
 
 ---
 ### RESULT
